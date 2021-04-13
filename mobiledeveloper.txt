@@ -1,0 +1,18 @@
+Your globally distributed team is focused on delivering apps on mobile and eyewear platforms that leverage customer media and 3D assets that have been developed in the authoring and management of industrial AR content.  The team is highly collaborative, and practices iterative, continuous software development following an agile process with a 4-week release cadence.
+
+Day-To-Day:
+
+You will coordinate work with teammates through daily standups, author new code and automated tests, perform code reviews with peers, help testers to facilitate story testing when needed, assist product owners with story breakdown and definition, and interact with other members of the team, as needed, to move work from left-to-right across the team’s Kanban board. 
+
+Required Skills and Knowledge:
+
+•  UWP Development focused  on C#  and Unity is required. MRKT is a plus!
+
+• Hands-on code development, proactive communication; ability to work independently as well as in a team.
+
+• Experience with Test-Driven Development, Continuous Delivery, Code Reviews and doing things the Agile way
+
+• Passion for Augmented Reality and experience in 3D development a plus
+
+Basic Qualifications:
+BS or MS in Computer Science or related area
